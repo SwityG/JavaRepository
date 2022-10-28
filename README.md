@@ -1,5 +1,6 @@
 Requirements : Apache tomcat 9, MySQL database and jdk12
-Steps to deploy project in Tomcat server
+
+********    Steps to deploy project in Tomcat server
 1.  Copy WebStoriesApp.war from https://github.com/SwityG/JavaRepository/tree/main/WebStoriesApp/target into webapps folder of Apache tomcat.
 2.  Copy 'images' folder from https://github.com/SwityG/JavaRepository/tree/main/WebStoriesApp/src/main/webapp into 'webapps' folder of Apache tomcat.
 3.  Download mysql-connector.jar file and place in 'lib' folder of Apache tomcat.
